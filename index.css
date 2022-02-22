@@ -3,12 +3,9 @@
     margin: 0%;
     padding: 0;
 }
-
 header{
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
     width: 100%;
-
-
 }
 /* 
 
@@ -31,11 +28,6 @@ li{
     align-content: center;
 
 }
-
-/* img{
-    display: inline;
- 
-} */
 .LOGIN{
     color: green;
     /* width: 10px; */
@@ -64,4 +56,33 @@ nav_bar_text2 button{
     font-size: 20px;
     margin-top: 3em;
     
+}
+.text{
+    margin-left: 10%;
+    margin-top:5%;
+    font-size: 135%;
+}
+img{
+   margin-left:55%;
+   margin-top:-20em;
+   height:20em;
+   width:30em;
+}
+.save{
+    color: green;
+    background-color: white;
+    padding:0.7%;
+}
+.color-scheme{
+    background: linear-gradient(#44f086, #ccd4cf);
+}
+.mid-content{
+    margin-top: 25%;
+}
+.image2{
+    margin-left: 6%;
+}
+.mid-text{
+    margin-left: 45%;
+    margin-top:-15em ;
 }
